@@ -15,8 +15,8 @@ var invSpr
 
 function preload()
 {
-	jjimg = loadImage("jjremainder.png");
-	bimg = loadImage("background.png");
+	jjimg = loadImage("jjremainder.PNG");
+	bimg = loadImage("background.PNG");
 	redImg = loadImage("red.png");
 	whitesusImg = loadImage("whitesus.png");
 
